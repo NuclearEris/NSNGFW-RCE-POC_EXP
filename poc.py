@@ -5,7 +5,7 @@ import sys
 import getopt
 import math
 import threading
-import re
+
 
 requests.packages.urllib3.disable_warnings()
 
