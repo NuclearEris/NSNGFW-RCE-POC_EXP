@@ -2,9 +2,7 @@
 import requests
 import sys
 import getopt
-import os
-import binascii
-import base64
+
 
 requests.packages.urllib3.disable_warnings()
 
