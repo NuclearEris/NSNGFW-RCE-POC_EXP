@@ -1,4 +1,4 @@
-NSNGFW网康下一代防火墙RCE  漏洞批量检测&利用&批量getshell
+# NSNGFW网康下一代防火墙RCE  漏洞批量检测&利用&批量getshell
  
 poc.py -t 线程数 -u urls.txt
 
